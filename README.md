@@ -35,7 +35,7 @@ while (running) {
 
 An artist can also build the shot in Univah Pro and save a .uvh project. LoadScene() opens that same file. Pro does not have to be installed on the machine that runs your application.
 
-What you get
+## What you get
 One C++ header and an import library. Your UI toolkit stays yours. The header does not include Qt.
 Modern OpenGL 4.5 core rendering on 64-bit Windows 10 and Windows 11.
 Model loading, transforms, and cameras with focal length and angle of view.
