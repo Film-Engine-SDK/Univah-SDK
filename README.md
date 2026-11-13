@@ -1,5 +1,4 @@
 <img width="1798" height="1045" alt="hellounivah example" src="https://github.com/user-attachments/assets/2f308f24-2bdb-44be-9a25-6e044757291d" />
-<img width="948" height="532" alt="Screenshot 2026-11-10 144238" src="https://github.com/user-attachments/assets/98c79de6-ec64-4f0a-9d52-153d8430ed91" />
 <img width="1917" height="1140" alt="Screenshot 2026-11-11 165747" src="https://github.com/user-attachments/assets/7538fd74-9045-4e59-b4dc-1ade23b432c3" />
 <img width="972" height="547" alt="Screenshot 2026-11-11 195318" src="https://github.com/user-attachments/assets/b4302fea-db12-4448-b457-97009c53a261" />
 <img width="1796" height="1045" alt="Screenshot 2026-11-11 134218" src="https://github.com/user-attachments/assets/058742c1-8286-467f-8871-ad304adf9f91" />
